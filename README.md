@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Findpsyche&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20for%20All%20Human%20%E2%9C%A8&descSize=20&descAlignY=62&reversal=true" width="100%"/>
 <div align="center">
 
 <!-- Header Wave -->
