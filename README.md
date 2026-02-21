@@ -33,19 +33,19 @@ findpsyche = {
 
 ---
 
-## 🚀 实习经历 · Experience
+## 实习经历 · Experience
 
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/奇绩创坛-MiraclePlus-FF6B35?style=for-the-badge&logo=Y+Combinator&logoColor=white" /><br/>
       <b>奇绩创坛 · MiraclePlus</b><br/>
-      <sub>创业加速器 · China's Top Startup Accelerator</sub>
+      <sub>创业加速器 · Startup Accelerator</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/信永中和-ShineWing-003087?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" /><br/>
       <b>信永中和 · ShineWing</b><br/>
-      <sub>会计师事务所 · International Accounting Firm</sub>
+      <sub>会计师事务所 · Internation Accounting Firm</sub>
     </td>
   </tr>
 </table>
