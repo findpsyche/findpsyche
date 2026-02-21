@@ -40,7 +40,7 @@ findpsyche = {
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/奇绩创坛-MiraclePlus-FF6B35?style=for-the-badge&logo=Y+Combinator&logoColor=white" /><br/>
       <b>奇绩创坛 · MiraclePlus</b><br/>
-      <sub>中国顶尖创业加速器 · China's Top Startup Accelerator</sub>
+      <sub>创业加速器 · China's Top Startup Accelerator</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/信永中和-ShineWing-003087?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" /><br/>
