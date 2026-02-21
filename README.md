@@ -45,7 +45,7 @@ findpsyche = {
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/信永中和-ShineWing-003087?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" /><br/>
       <b>信永中和 · ShineWing</b><br/>
-      <sub>会计师事务所 · Internation Accounting Firm</sub>
+      <sub>会计师事务所 · Accounting Firm</sub>
     </td>
   </tr>
 </table>
