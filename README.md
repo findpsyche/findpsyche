@@ -17,7 +17,7 @@
 > *"创建能够延续 1000 年的企业，造福人类。"*
 > *Building an enterprise that lasts 1000 years, for the benefit of all humanity.*
 
-我是一个相信 **技术可以温柔改变世界** 的建造者。内心世界温柔而美好，眼中装着星辰大海。
+我是一个相信 **技术可以温柔改变世界** 的建造者。走过哪些 曲折的道路，微小火光闪动，世界自此不同。
 
 I'm a builder who believes **technology can gently change the world**. With a gentle and beautiful inner world, eyes full of stars and seas.
 
