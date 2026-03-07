@@ -15,7 +15,7 @@ findpsyche = {
     "mission"  : "AI for All Human 🤖❤️",
     "heart"    : "温柔而美好的心中世界 🌸",
     "location" : "Beijing, China 🇨🇳",
-    "website"  : "findpsyche.cn",
+    "website"  : "findpsyche.cn"
 }
 ```
 
