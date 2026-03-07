@@ -56,6 +56,4 @@ findpsyche = {
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=findpsyche&color=A78BFA&style=for-the-badge&label=Profile+Views)
-
 </div> <!-- Footer Wave --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
