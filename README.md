@@ -96,25 +96,3 @@ findpsyche = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5,6&height=120&section=footer" width="100%"/>
 ```
-额外小步骤（只需做一次）
-
-去你的 findpsyche/findpsyche 仓库（profile 仓库），新建 .github/workflows/pacman.yml 文件。
-复制下面这段 workflow（超级简单）：
-
-YAMLname: generate pacman game
-on:
-  schedule: [ { cron: "0 0 * * *" } ]
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions: { contents: write }
-    steps:
-      - uses: abozanona/pacman-contribution-graph@main
-        with: { github_user_name: ${{ github.repository_owner }} }
-      - uses: crazy-max/ghaction-github-pages@v3
-        with: { target_branch: output, build_dir: dist }
-        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
